@@ -7,5 +7,5 @@ The project is for sharpening my skills in DOM manipulation, Template Literal, E
 <a href="https://autoimpact.github.io/to-dos-list/"><h5>Click To The Page</h5></a>
 
 
-<h3>Cover</h3>
-<img src="https://github.com/autoimpact/to-dos-list/blob/master/readme/cover_todoslist.png" alt="cover-image">
+<h3>Demo</h3>
+<img src="https://github.com/autoimpact/to-dos-list/blob/master/readme/to-dos-list.gif" alt="cover-image">
